@@ -1,6 +1,6 @@
 # Презентация-глоссарий «Гибкая методология SCRUM в образовательном процессе»
 
-Web-based slideshow для GitHub Pages.
+Web-based slideshow для GitHub Pages. Просмотреть [презентацию](https://lyoshagodx.github.io/scrum-glossary-web-slideshow/#overview)
 
 **Студент:** Клементьев Алексей Александрович  
 **Группа:** 2ом_КЭО/25  
